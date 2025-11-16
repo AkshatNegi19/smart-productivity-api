@@ -27,7 +27,4 @@ This project can be used as the backend for a **Task Manager App / Productivity 
 ### 📊 Analytics (Basic Route)
 - Basic analytics overview (expandable)
 
----
-
-## 🗂 Project Structure
 
